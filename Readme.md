@@ -1,4 +1,4 @@
-💬 FLASK LITE-CHAT APP!
+💬 FLASK LITE-CHAT APP
 
 A clean, responsive, real-time chat application built with a Python (Flask) backend and a vanilla JavaScript frontend.
 
